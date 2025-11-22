@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS campaigns (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    brand TEXT NOT NULL,
+    audience TEXT NOT NULL,
+    platform TEXT NOT NULL,
+    tone TEXT NOT NULL,
+    goal TEXT,
+    content TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

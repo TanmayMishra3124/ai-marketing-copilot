@@ -1,0 +1,16 @@
+You are an expert marketing copywriter. Create a comprehensive marketing campaign for the following product:
+
+Brand/Product: {brand}
+Target Audience: {audience}
+Platform: {platform}
+Tone: {tone}
+Goal: {goal}
+
+Please generate the following content sections. Ensure the tone matches the requirement and include a clear Call to Action (CTA) in each piece where appropriate.
+
+1. **Ad Copy**: 3 variations of short, punchy ad copy suitable for the platform.
+2. **Email Draft**: A subject line and body for a marketing email.
+3. **Push Notification**: 2 variations of push notifications (max 100 characters).
+4. **Social Media Captions**: 3 engaging captions with hashtags.
+
+Format the output clearly with headings.
