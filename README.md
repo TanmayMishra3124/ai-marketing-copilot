@@ -18,10 +18,10 @@ The **AI Marketing Copilot** is a production-ready workflow tool designed to hel
 ![Dashboard Screenshot](assets/demo_images/Dashboard.png)
 
 ## 💼 Real-World Use Cases
-✔ Marketing agencies generating ads for multiple clients
-✔ E-commerce brands launching seasonal campaigns
-✔ Founders writing emails + social content without copywriters
-✔ Performance marketers testing multiple copy variations
+-✔ Marketing agencies generating ads for multiple clients
+-✔ E-commerce brands launching seasonal campaigns
+-✔ Founders writing emails + social content without copywriters
+-✔ Performance marketers testing multiple copy variations
 
 ---
 
