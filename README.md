@@ -14,6 +14,15 @@ The **AI Marketing Copilot** is a production-ready workflow tool designed to hel
 - **💾 Campaign History**: Automatically saves every valid campaign to a local SQLite database for future reference.
 - **📋 One-Click Copy**: Dashboard interface with easy copy buttons for Ad Copy, Emails, Push Notifications, and Social Captions.
 
+## 🖼️ Preview
+![Dashboard Screenshot](assets/demo_images/Dashboard.png)
+
+## 💼 Real-World Use Cases
+✔ Marketing agencies generating ads for multiple clients
+✔ E-commerce brands launching seasonal campaigns
+✔ Founders writing emails + social content without copywriters
+✔ Performance marketers testing multiple copy variations
+
 ---
 
 ## 🛠️ Tech Stack
